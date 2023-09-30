@@ -1,0 +1,19 @@
+{
+  "name": "gatsby-source-bokadirekt",
+  "version": "1.0.0",
+  "description": "Gatsby plugin to source written reviews from BokaDirekt",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^2.6.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "bokadirekt"
+  ],
+  "author": "apetastic",
+  "license": "MIT"
+}
